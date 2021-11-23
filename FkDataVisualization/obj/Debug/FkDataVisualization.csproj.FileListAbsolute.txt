@@ -1,0 +1,10 @@
+D:\DataVisualization\FkDataVisualization\FkDataVisualization\obj\Debug\FkDataVisualization.csproj.AssemblyReference.cache
+D:\DataVisualization\FkDataVisualization\FkDataVisualization\obj\Debug\FkDataVisualization.csproj.CoreCompileInputs.cache
+D:\DataVisualization\FkDataVisualization\FkDataVisualization\bin\Debug\FkDataVisualization.exe.config
+D:\DataVisualization\FkDataVisualization\FkDataVisualization\bin\Debug\FkDataVisualization.exe
+D:\DataVisualization\FkDataVisualization\FkDataVisualization\bin\Debug\FkDataVisualization.pdb
+D:\DataVisualization\FkDataVisualization\FkDataVisualization\bin\Debug\Newtonsoft.Json.dll
+D:\DataVisualization\FkDataVisualization\FkDataVisualization\bin\Debug\Newtonsoft.Json.xml
+D:\DataVisualization\FkDataVisualization\FkDataVisualization\obj\Debug\FkDataVisualization.csproj.CopyComplete
+D:\DataVisualization\FkDataVisualization\FkDataVisualization\obj\Debug\FkDataVisualization.exe
+D:\DataVisualization\FkDataVisualization\FkDataVisualization\obj\Debug\FkDataVisualization.pdb

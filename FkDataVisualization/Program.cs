@@ -32,13 +32,10 @@ namespace FkDataVisualization
             {
                  resMen = await GetDataForMenStr;
                 resWomen = await GetDataForWomenStr;
-
             }
             catch (Exception)
             {
-
-                Console.WriteLine("Errore!");
-                
+                Console.WriteLine("Errore!");           
             }
             
 
@@ -59,7 +56,6 @@ namespace FkDataVisualization
                 catch (Exception)
                 {
                     numOfWomen = 0;
-
                 }
 
                 // Extract the men's data 
@@ -115,17 +111,6 @@ namespace FkDataVisualization
             {
                 maxNumInSample = sortFkAPIData[0].Get_number_of_women();
             }
-            /*
-            string[] countriesName = new string[sortFkAPIData.Count];
-            uint[,] MenAndWomenValues = new uint[sortFkAPIData.Count, 2];
-
-            for (int i = 0; i < sortFkAPIData.Count; i++)
-            {
-                countriesName[i] = sortFkAPIData[i].Get_country_code();
-                MenAndWomenValues[i, 0] = sortFkAPIData[i].Get_number_of_men();
-                MenAndWomenValues[i, 1] = sortFkAPIData[i].Get_number_of_women();
-            }
-            */
 
             //Call drawing graph function
             draw_graph(maxNumInSample, sortFkAPIData.Count,sortFkAPIData);

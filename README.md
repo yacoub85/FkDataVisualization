@@ -1,6 +1,6 @@
 # FkDataVisualization
 
-#Graphical representation of Swedish people who have received planned care abroad year 2020, without using a ready-made library for drawing graphs.
+#Graphical representation of Swedish people who have received planned care abroad year 2020, without using a ready-made library for drawing graphs using C#.
 
 -General Info:
 This Project is about shows a graphical representation of the Swedish Social Insurance Agency's (Försäkringskassans ) statistics for “Number of people who have received planned care abroad for year 2020. 
